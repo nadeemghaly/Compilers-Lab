@@ -5,4 +5,4 @@
 
  Tasks 8 and 9 were written on IntelliJ
 
-* To find the description of each task, please find the "tasks" folder. *
+* To find the description of each task, please find the "tasks" folder. 
